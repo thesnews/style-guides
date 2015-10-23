@@ -1,14 +1,14 @@
 Table of Contents
 =================
 
-    * [Twig Style Guide](#twig-style-guide)
-      * [Syntax](#syntax)
-      * [File names](#file-names)
-      * [Indentation](#indentation)
-      * [Comments](#comments)
-      * [Long hashes or argument lists](#long-hashes-or-argument-lists)
-      * [Macros](#macros)
-      * [General style rules](#general-style-rules)
+* [Twig Style Guide](#twig-style-guide)
+  * [Syntax](#syntax)
+  * [File names](#file-names)
+  * [Indentation](#indentation)
+  * [Comments](#comments)
+  * [Long hashes or argument lists](#long-hashes-or-argument-lists)
+  * [Macros](#macros)
+  * [General style rules](#general-style-rules)
 
 ## Twig Style Guide
 
