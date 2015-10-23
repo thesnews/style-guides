@@ -30,4 +30,5 @@ In code reviews, it is common to put in TODOs when a reviewer points out some th
 
 ## Configs
 
-- [Sublime Text](/configs/sublime-user.json})
+- [Sublime Text](/configs/sublime-user.json)
+
