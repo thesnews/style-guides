@@ -16,6 +16,7 @@ The Twig template engine, and it's other language siblings, are used throughout 
 
 - TODO(mikejoseph): Add bits about fetch tags
 - TODO(mikejoseph): Linters, yo.
+- TODO(mikejoseph): Add bits about page structure (includes, helpers fetch statements)
 
 ### Syntax
 
