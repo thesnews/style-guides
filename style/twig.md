@@ -100,12 +100,12 @@ Liberal use of new lines and indentation makes larger, more complex calls much m
 
 Bad:
 ```twig
-{{layoutRender.mediaBlockGrid(recent, {"columns":cols, "title":true, "rowClass":"media-grid gallery-grid", "headlineSize": 4})}}
+{{ layoutRender.mediaBlockGrid(recent, {"columns":cols, "title":true, "rowClass":"media-grid gallery-grid", "headlineSize": 4}) }}
 ```
 
 Good:
 ```twig
-{{layoutRender.mediaBlockGrid(
+{{ layoutRender.mediaBlockGrid(
     recent,
     {
         "columns": cols,
@@ -113,7 +113,7 @@ Good:
         "rowClass": "media-grid gallery-grid",
         "headlineSize": 4
     }
-)}}
+) }}
 ```
 
 ### Filters
