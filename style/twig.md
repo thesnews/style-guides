@@ -1,16 +1,16 @@
+## Twig Style Guide
+
 Table of Contents
 =================
 
-* [Twig Style Guide](#twig-style-guide)
-  * [Syntax](#syntax)
-  * [File names](#file-names)
-  * [Indentation](#indentation)
-  * [Comments](#comments)
-  * [Long hashes or argument lists](#long-hashes-or-argument-lists)
-  * [Macros](#macros)
-  * [General style rules](#general-style-rules)
-
-## Twig Style Guide
+* [Syntax](#syntax)
+* [File names](#file-names)
+* [Indentation](#indentation)
+* [Comments](#comments)
+* [Long hashes or argument lists](#long-hashes-or-argument-lists)
+* [Filters](#filters)
+* [Macros](#macros)
+* [General style rules](#general-style-rules)
 
 The Twig template engine, and it's other language siblings, are used throughout SNworks products. This guide is based on the original [Twig style guide](http://twig.sensiolabs.org/doc/coding_standards.html)
 
@@ -111,6 +111,16 @@ Good:
         "headlineSize": 4
     }
 )}}
+```
+
+### Filters
+
+Filters should have no spaces between the pipe and filter name. Additionally, there should be no space between filter name and opening parenthesis. Arguments lists should have a single space after the comma and no spaces between the open and closing parenthesis and any arguments:
+
+```twig
+{{ foo|url() }}
+
+{{ "now"|date('Y-m-d') }}
 ```
 
 ### Macros
