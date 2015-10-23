@@ -1,4 +1,4 @@
-# Khan Academy Coding Style Guides
+# Khan Academy Coding Style Guides, TSN Edition
 
 We implement a style guide for our code with the intention of keeping things readable and consistent. Please do your part on the team to help keep the spirit of this consistency in both your own code, as well as politely pointing out violations in other people's code when doing their code reviews. While code prettiness should never be valued over launching or any user-visible impacting changes to the code, the idea is that maintaining a readable codebase helps things be more maintainable, and in the long run will make it easier to do the real changes that do make user-visible changes.
 
@@ -25,6 +25,5 @@ In code reviews, it is common to put in TODOs when a reviewer points out some th
 - [React](/style/react.md)
 - [CSS](/style/css.md)
 - [Python](/style/python.md)
-- [Java](/style/java.md)
-- [ObjC](https://github.com/Khan/objective-c-style-guide) (hosted separately)
-- [iOS](/style/ios.md)
+- [PHP](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) (PSR-2)
+- TWIG (Coming soon)
