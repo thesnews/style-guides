@@ -1,5 +1,3 @@
-## Twig Style Guide
-
 Table of Contents
 =================
 
@@ -12,7 +10,12 @@ Table of Contents
 * [Macros](#macros)
 * [General style rules](#general-style-rules)
 
+## Twig Style Guide
+
 The Twig template engine, and it's other language siblings, are used throughout SNworks products. This guide is based on the original [Twig style guide](http://twig.sensiolabs.org/doc/coding_standards.html)
+
+- TODO(mikejoseph): Add bits about fetch tags
+- TODO(mikejoseph): Linters, yo.
 
 ### Syntax
 
