@@ -183,7 +183,7 @@ Put one (and only one) space after the : sign in hashes and , in arrays and hash
 Do not put any spaces after an opening parenthesis and before a closing parenthesis in expressions:
 
 ```twig:
-{{ val + (bar * 3)}}
+{{ val + (bar * 3) }}
 ```
 
 Do not put any spaces before and after the following operators: |, ., .., []:
